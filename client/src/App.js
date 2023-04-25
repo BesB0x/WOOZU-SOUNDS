@@ -37,7 +37,7 @@ const App = () => {
   return (
     <div className='site-wrapper'>
       <BrowserRouter>
-        <PageNavbar user={user} userError={userError} />
+        <PageNavbar getUser={getUser} user={user} userError={userError} />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/register" element={<Register />} />
@@ -51,8 +51,6 @@ const App = () => {
         </Routes>
         <Footer />
       </BrowserRouter>
-      <div className='footer'>Copyright 2023 &copy; All pictures cannot be copied without permission.
-      Created by Suhho Lee, Tom Clegg, Eunyeong Jeong</div>
     </div>
   )
 }
