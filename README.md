@@ -282,6 +282,26 @@ We have yet to find any bugs.
 
 ## Final Project
 
+### Landing Page
+
+![](https://res.cloudinary.com/detjuq0lu/image/upload/v1684859892/Project%203%20readme/Screenshot_2023-05-23_at_17.31.13_jgtihu.png)
+
+### Map Page
+
+![](https://res.cloudinary.com/detjuq0lu/image/upload/v1684859886/Project%203%20readme/Screenshot_2023-05-23_at_17.31.49_f7jy8r.png)
+
+### One of the Stages
+
+![](https://res.cloudinary.com/detjuq0lu/image/upload/v1684859894/Project%203%20readme/Screenshot_2023-05-23_at_17.32.00_wrnwyg.png)
+
+### Comments Section
+
+![](https://res.cloudinary.com/detjuq0lu/image/upload/v1684859887/Project%203%20readme/Screenshot_2023-05-23_at_17.32.13_zmnanc.png)
+
+### Profile Page
+
+![](https://res.cloudinary.com/detjuq0lu/image/upload/v1684859889/Project%203%20readme/Screenshot_2023-05-23_at_17.33.50_asvndm.png)
+
 
 
 
